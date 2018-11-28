@@ -1,0 +1,1 @@
+Write a program in C to accept the four sides of a rectangle. Write a program to find out whether its area is greater than its perimeter.
